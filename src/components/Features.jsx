@@ -120,7 +120,8 @@ const Features = () => (
               Valor<b>a</b>nt
             </>
           }
-          description="A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure."
+          description="A Valorant-inspired metagame layer, where the world becomes your
+          playground."
           isComingSoon
         />
       </BentoTilt>
@@ -131,10 +132,10 @@ const Features = () => (
             src="videos/feature-2.mp4"
             title={
               <>
-                zig<b>m</b>a
+                Cham<b>b</b>er
               </>
             }
-            description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
+            description="The Most Play FPS game in the word ."
             isComingSoon
           />
         </BentoTilt>
@@ -144,10 +145,10 @@ const Features = () => (
             src="videos/feature-3.mp4"
             title={
               <>
-                n<b>e</b>xus
+                M<b>A</b>Ps
               </>
             }
-            description="A gamified social hub, adding a new dimension of play to social interaction for Web3 communities."
+            description="A gamified social hub, adding a new dimension of play to social interaction for Discord communities."
             isComingSoon
           />
         </BentoTilt>
@@ -160,7 +161,7 @@ const Features = () => (
                 az<b>u</b>l
               </>
             }
-            description="A cross-world AI Agent - elevating your gameplay to be more fun and productive."
+            description="A cross-world Platform - elevating your gameplay to be more fun and productive."
             isComingSoon
           />
         </BentoTilt>
