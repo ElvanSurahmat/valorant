@@ -93,5 +93,3 @@ npm run lint
 [MIT](LICENSE) © Elvan Surahmat
 
 ---
-
-> Inspired by modern web design trends and [Awwwards](https://www.awwwards.com/).
